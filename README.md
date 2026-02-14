@@ -48,5 +48,5 @@
 ---
 
 ## 🌐 Socials
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7ff892b1-8903-4b19-8b4c-b1c07f824c4b" /> LinkedIn: https://www.linkedin.com/in/kiran-cse/
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/7ff892b1-8903-4b19-8b4c-b1c07f824c4b" /> LinkedIn: https://www.linkedin.com/in/madhu009/
 
