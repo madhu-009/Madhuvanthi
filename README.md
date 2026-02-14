@@ -6,20 +6,27 @@
 
 ## 🚀 Featured Projects
 
-1. 🎯 **[ConsensusWorks]**  
-   🤖 Startup Project – currently under wraps.
+1. 🎯 **[Capstone Project](https://github.com/madhu-009/Capstone-Project)**
 
-2. 💬 **[SmartScribe]**
+   ✈️ Strategic Response Analysis – Fuel Price Volatility
+   📊 Financial Strategy | Airline Industry
+    - Evaluated impact of fuel price fluctuations on EBITDA and route economics
+    - Developed multi-scenario cost sensitivity models to assess downside risk
+    - Analyzed pricing power, hedging feasibility, and route rationalization levers
+    - Recommended margin-protection strategies aligned with long-term sustainability
+
+3. 💬 **[Bank Loan Report Analysis](https://github.com/Kiran-velan/SmartScribe)**  
    🎙️ AI-Powered Transcription Suite - Transcribe, Translate, and Talk with AI
     - Real-time speech processing with multi-language support using openai-whisper
-    - Seamlessly integrates with , also RAG implemented.
+    - Seamlessly integrates with **[Local LLM Server](https://github.com/Kiran-velan/Local-LLM-Server)**, also RAG implemented.
 
-4. 📈 **[API Rate Limiter]**  
-   ⚡ Rate Limiting Gateway - Subscription-based API management
-   - Admin dashboard for usage analytics and monitoring
-   - Flexible tier-based access control
-   - Redis-backed high-performance throttling
-
+4. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
+   📉 Business Analytics | Retention Strategy
+   - Diagnosed key churn drivers using customer behavioral and transactional data
+   - Segmented at-risk customers to prioritize intervention strategies
+   - Assessed revenue impact of churn across customer cohorts
+   - Proposed targeted retention framework to improve lifetime valueAdmin dashboard for usage analytics and monitoring
+     
 ---
 
 ## 🛠️ Tech Stack
