@@ -9,6 +9,7 @@
 1. 🎯 **[Capstone Project](https://github.com/madhu-009/Capstone-Project)**
 
    ✈️ Strategic Response Analysis – Fuel Price Volatility
+   
    📊 Financial Strategy | Airline Industry
     - Evaluated impact of fuel price fluctuations on EBITDA and route economics
     - Developed multi-scenario cost sensitivity models to assess downside risk
