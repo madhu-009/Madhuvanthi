@@ -17,6 +17,8 @@
     - Recommended margin-protection strategies aligned with long-term sustainability
 
 3. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
+
+     Financial Strategy | Banking Industry
    - Built a 3-page Power BI dashboard (Summary, Overview, Details) for end-to-end loan performance analysis.
    - Used SQL for data extraction, cleaning, and transformation to ensure reporting accuracy and performance.
    - Delivered actionable insights to identify high-risk loans, reduce default prediction time and improve loan
