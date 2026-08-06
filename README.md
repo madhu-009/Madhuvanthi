@@ -16,12 +16,13 @@
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
 
-3. 💬 **[Bank Loan Report Analysis](https://github.com/Kiran-velan/SmartScribe)**  
-   🎙️ AI-Powered Transcription Suite - Transcribe, Translate, and Talk with AI
-    - Real-time speech processing with multi-language support using openai-whisper
-    - Seamlessly integrates with **[Local LLM Server](https://github.com/Kiran-velan/Local-LLM-Server)**, also RAG implemented.
+3. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
+   - Built a 3-page Power BI dashboard (Summary, Overview, Details) for end-to-end loan performance analysis.
+   - Used SQL for data extraction, cleaning, and transformation to ensure reporting accuracy and performance.
+   - Delivered actionable insights to identify high-risk loans, reduce default prediction time by 40%, and improve loan
+     approval strategy, contributing to a 15% drop in loan defaults.
 
-4. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
+5. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
    📉 Business Analytics | Retention Strategy
    - Diagnosed key churn drivers using customer behavioral and transactional data
    - Segmented at-risk customers to prioritize intervention strategies
