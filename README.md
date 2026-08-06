@@ -19,8 +19,8 @@
 3. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
    - Built a 3-page Power BI dashboard (Summary, Overview, Details) for end-to-end loan performance analysis.
    - Used SQL for data extraction, cleaning, and transformation to ensure reporting accuracy and performance.
-   - Delivered actionable insights to identify high-risk loans, reduce default prediction time by 40%, and improve loan
-     approval strategy, contributing to a 15% drop in loan defaults.
+   - Delivered actionable insights to identify high-risk loans, reduce default prediction time and improve loan
+     approval strategy which contributing to drop in loan defaults.
 
 5. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
    📉 Business Analytics | Retention Strategy
