@@ -16,6 +16,9 @@
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
 
+2. 📈 **[Equity Research Analysis](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
+   📉 Financial Valuation 
+
 3. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
 
      Financial Strategy | Banking Industry
@@ -24,17 +27,14 @@
    - Delivered actionable insights to identify high-risk loans, reduce default prediction time and improve loan
      approval strategy which contributing to drop in loan defaults.
 
-5. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
+4. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
    📉 Business Analytics | Retention Strategy
    - Diagnosed key churn drivers using customer behavioral and transactional data
    - Segmented at-risk customers to prioritize intervention strategies
    - Assessed revenue impact of churn across customer cohorts
    - Proposed targeted retention framework to improve lifetime valueAdmin dashboard for usage analytics and monitoring
      
----
-
-4. 📈 **[Equity Research Analysis](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
-   📉 Financial Valuation 
+------
    
 ## 🛠️ Tech Stack
 
