@@ -7,7 +7,6 @@
 ## 🚀 Featured Projects
 
 1. 🎯 **[Capstone Project](https://github.com/madhu-009/Capstone-Project)**
-
    ✈️ Strategic Response Analysis – Fuel Price Volatility
    
    📊 Financial Strategy | Airline Industry
@@ -16,8 +15,7 @@
     - Analyzed pricing power, hedging feasibility, and route rationalization levers
     - Recommended margin-protection strategies aligned with long-term sustainability
 
-2. 📈 **[Equity Research Analysis](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
-   📈 Equity Research Analysis - Jubilant FoodWorks Ltd.
+2. 📈 **[Equity Research Analysis - Jubilant Foodworks Ltd.](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
    
    📊 Financial Statement Analysis
    📉 Comparative & Common-Size Analysis
@@ -26,7 +24,16 @@
    📈 Profitability & Performance Evaluation
    💡 Key Financial Insights & Inferences
 
-3. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
+3. **[Financial Determinants of ESG Performance among NIFTY 100 Companies | Research Project ](https://github.com/madhu-009/Research-Project/tree/main)**
+
+   - 📊 Analyze financial and firm-specific determinants of ESG performance
+   - 🔎 Examine relationships between financial variables and ESG scores
+   - 📈 Perform exploratory and statistical analysis of panel data
+   - 🤖 Apply machine learning to identify important ESG determinants
+   - 🧠 Use SHAP for model explainability and feature importance
+   - 💡 Derive insights into the key factors influencing ESG performance
+
+4. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
 
      Financial Strategy | Banking Industry
    - Built a 3-page Power BI dashboard (Summary, Overview, Details) for end-to-end loan performance analysis.
@@ -34,7 +41,7 @@
    - Delivered actionable insights to identify high-risk loans, reduce default prediction time and improve loan
      approval strategy which contributing to drop in loan defaults.
 
-4. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
+5. 📈 **[Bank Customer Churn Anlaysis](https://github.com/madhu-009/Bank-Customer-Churn-Analysis)**  
    📉 Business Analytics | Retention Strategy
    - Diagnosed key churn drivers using customer behavioral and transactional data
    - Segmented at-risk customers to prioritize intervention strategies
