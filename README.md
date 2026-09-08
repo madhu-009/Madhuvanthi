@@ -33,6 +33,9 @@
      
 ---
 
+4. 📈 **[Equity Research Analysis](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
+   📉 Financial Valuation 
+   
 ## 🛠️ Tech Stack
 
 ### 🚀 Languages & Frameworks
