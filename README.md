@@ -17,7 +17,14 @@
     - Recommended margin-protection strategies aligned with long-term sustainability
 
 2. 📈 **[Equity Research Analysis](https://github.com/madhu-009/Equity-Research-Analysis---Jubilant-Foodworks-Ltd.)**  
-   📉 Financial Valuation | Jubilant Foodworks Ltd.
+   📈 Equity Research Analysis - Jubilant FoodWorks Ltd.
+   
+   📊 Financial Statement Analysis
+   📉 Comparative & Common-Size Analysis
+   💰 Financial Ratio Analysis
+   🔎 Valuation & Investment Analysis
+   📈 Profitability & Performance Evaluation
+   💡 Key Financial Insights & Inferences
 
 3. 💬 **[Bank Loan Report Analysis](https://github.com/madhu-009/Bank-Loan-Report-Analysis)**
 
